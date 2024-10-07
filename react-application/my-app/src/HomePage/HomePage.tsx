@@ -15,7 +15,7 @@ export default function HomePage() {
   return (
     <div className='homeContainer'>
       <h1>
-          Why are you so pretty? nope!!!!
+          Why are you so pretty? nope!!!! true.
       </h1>
       <img src={ImageOfAgi} alt="My Agi" />
     </div>
